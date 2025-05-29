@@ -12,3 +12,8 @@ added heading
 a="Hello World"
 print(a)
 ```
+
+- [x] Create a portfolio
+- [x] Learn Python
+- [ ] Create a website using JS
+- [ ] learn Flutter
